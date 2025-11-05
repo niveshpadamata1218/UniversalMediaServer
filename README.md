@@ -1,14 +1,8 @@
 # Universal Media Server
-![Universal Media Server CI](https://github.com/UniversalMediaServer/UniversalMediaServer/workflows/CI/badge.svg) [![Crowdin](https://badges.crowdin.net/universalmediaserver/localized.svg)](https://crowdin.com/project/universalmediaserver)
+![Universal Media Server CI](https://github.com/UniversalMediaServer/UniversalMediaServer/workflows/CI/badge.svg) 
+[![Crowdin](https://badges.crowdin.net/universalmediaserver/localized.svg)](https://crowdin.com/project/universalmediaserver)
 
-[<img align="right" src="https://github.com/UniversalMediaServer/UniversalMediaServer/blob/main/src/main/resources/images/logo.png?raw=true" alt="Universal Media Server" width="256" height="auto"/>][1] 
-Universal Media Server is a DLNA, UPnP and HTTP/S Media Server.
-It is capable of sharing video, audio and images between most modern devices.
-It was originally based on PS3 Media Server by shagrath, in order to ensure greater stability and file-compatibility.
-
-Universal Media Server supports all major operating systems, with versions for Windows, Linux and macOS.
-The program streams or transcodes many different media formats with little or no configuration.
-It is powered by [FFmpeg][27], [MediaInfo][28], [Crowdin][29], [MEncoder][26], tsMuxeR, AviSynth, VLC, and more, which combine to offer support for a wide range of media formats.
+[<img align="right" src="https://github.com/UniversalMediaServer/UniversalMediaServer/blob/main/src/main/resources/images/logo.png?raw=true" alt="Universal Media Server" width="256" height="auto"/>][1]
 
 ## Current Project Members
 
@@ -17,6 +11,9 @@ It is powered by [FFmpeg][27], [MediaInfo][28], [Crowdin][29], [MEncoder][26], t
 * [SubJunk][3]
 * [SurfaceS][33]
 * [valib][5]
+
+... (rest of the README content) ...
+
 
 ## Sponsors
 
